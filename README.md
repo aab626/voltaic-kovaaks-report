@@ -21,4 +21,4 @@ cd voltaic-kovaaks-report
 pip install -r requirements.txt
 ```
 
-You can then run the tool via `src/main.spy` or build an windows executable using `src/setup.py build`.
+You can then run the tool via `src/main.spy` or build an windows executable using `cd src && setup.py build`.
