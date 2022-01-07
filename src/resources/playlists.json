@@ -1,0 +1,302 @@
+{
+	"iron": {
+				"tracking": [
+								"Centering 90 Easy+ No Strafes",
+								"Thin Aiming Long Iron",
+								"Air Voltaic Far Long Strafes Very Easy",
+								"Air Voltaic Close Long Strafes Very Easy",
+								"GP Far Long Strafes Easy",
+								"GP Close Long Strafes Easy",
+								"Kindaclose Fast Strafes Iron",
+								"B90TI Iron",
+								"Smoothbot Iron"
+				],
+				"clicking": [
+								"Pasu Voltaic Iron",
+								"B90 Voltaic Iron",
+								"Tamspeed 2bp Iron",
+								"Tile Spheres 90 Strafing",
+								"Wide Wall 3 Targets TE",
+								"1w2t TE Reload"
+							],
+				"switching": [
+								"Pokeball ww3t Voltaic Iron",
+								"B90T Voltaic Easy Very Slow", 
+								"kinTS Voltaic Iron",
+								"patTS Voltaic Iron", 
+								"voxTS Voltaic Iron"
+							]
+		},
+	"bronze": {
+				"tracking": [
+								"Centering 90 Easy No Strafes",
+								"Thin Aiming Long Bronze",
+								"Air Voltaic Far Long Strafes Easy",
+								"Air Voltaic Close Long Strafes Easy",
+								"GP Far Long Strafes",
+								"GP Close Long Strafes",
+								"Kindaclose Fast Strafes Bronze",
+								"PGTI Vertical Bronze",
+								"Smoothbot Bronze"
+				],
+				"clicking": [
+								"Pasu Voltaic Bronze",
+								"B90 Voltaic Bronze",
+								"Tamspeed 2bp Bronze",
+								"ww3t Voltaic Larger",
+								"1w4ts 30% larger"
+							],
+				"switching": [
+								"Pokeball ww3t Voltaic Iron",
+								"B90T Voltaic Easy Slow", 
+								"kinTS Voltaic Bronze",
+								"patTS Voltaic Bronze", 
+								"voxTS Voltaic Bronze"
+							]
+	},
+	"silver": {
+				"tracking": [
+								"Centering I 90 no strafes",
+								"Air Voltaic Easy Invincible 2",
+								"Air Voltaic Easy Invincible 1",
+								"Ground Plaza Voltaic Easy Invincible 2",
+								"Ground Plaza Voltaic Easy Invincible 1",
+								"Kindaclose Fast Strafes Silver",
+								"PGTI Vertical Silver",
+								"Smoothbot Silver"
+				],
+				"clicking": [
+								"Pasu Voltaic Silver",
+								"B180 Voltaic Silver",
+								"Popcorn Voltaic Silver",
+								"Tamspeed 2bp Silver",
+								"ww3t Voltaic",
+								"1w4ts Voltaic"
+							],
+				"switching": [
+								"Pokeball 1w4t shrink",
+								"B180T Voltaic Silver", 
+								"kinTS Voltaic Silver",
+								"patTS Voltaic Silver", 
+								"voxTS Voltaic Silver"
+							]
+	},
+	"gold": {
+				"tracking": [
+								"Thin Gauntlet Gold",
+								"PGTI Voltaic Gold",
+								"B180TI Voltaic",
+								"Smoothbot Voltaic Easy",
+								"Kindaclose Fast Strafes",
+								"Close Fast Strafes Easy Invincible",
+								"Ground Plaza Voltaic Easy",
+								"Air Voltaic Easy",
+								"Air Voltaic AIO Easy"
+				],
+				"clicking": [
+								"Pasu Voltaic Easy",
+								"Popcorn Voltaic Easy",
+								"B180 Voltaic Easy",
+								"Tamspeed 2bp Gold",
+								"ww3t Voltaic Smaller",
+								"Wide Wall 3 Targets",
+								"1w4ts Voltaic",
+								"1w2ts reload",
+								"1w4t shrink"
+							],
+				"switching": [
+								"Pokeball Frenzy Auto Wide Wall 4 Targets Small",
+								"B180T Voltaic Easy", 
+								"kinTS Voltaic Easy",
+								"patTS Voltaic Easy", 
+								"voxTS Voltaic Easy"
+							]
+	},
+	"platinum": {
+				"tracking": [
+								"Thin Gauntlet V2",
+								"PGTI Voltaic Easy",
+								"B360TI Voltaic",
+								"Smoothsphere Easy",
+								"Controlsphere Platinum",
+								"Ground Plaza Voltaic Easy",
+								"Close Fast Strafes Invincible",
+								"Air Voltaic Easy",
+								"Air Voltaic AIO Easy"
+				],
+				"clicking": [
+								"Pasu Voltaic Intermediate",
+								"Popcorn Voltaic Intermediate",
+								"B180 Voltaic Intermediate",
+								"Tamspeed 2bp Platinum",
+								"ww3t Voltaic 50% smaller",
+								"ww4t Varied",
+								"Wide Wall 4 Targets Small",
+								"1w4ts_truste Raspberry",
+								"1w2ts reload smallflicks"
+							],
+				"switching": [
+								"Pokeball Frenzy Auto Wide Wall 4 Targets Extra Small",
+								"B360T Voltaic Easy", 
+								"kinTS Voltaic Easy",
+								"patTS Voltaic 360 Easy", 
+								"voxTS Voltaic"
+							]
+	},
+	"diamond": {
+				"tracking": [
+								"Centering II 180",
+								"Smooth Thin Strafes",
+								"PGTI Voltaic Slower - 80%",
+								"B360TI Voltaic Smaller",
+								"Smoothsphere Diamond",
+								"Controlsphere Diamond",
+								"VSS Close-Mid Long",
+								"Ground Plaza Voltaic",
+								"Air Voltaic",
+								"Air Voltaic AIO"
+				],
+				"clicking": [
+								"Pasu Voltaic Intermediate",
+								"Popcorn Voltaic Intermediate",
+								"B180 Voltaic Intermediate",
+								"Tamspeed 2bpes",
+								"Wide Wall 4 Targets 30% Smaller",
+								"ww2t voltaic 50% smaller",
+								"1w4ts Voltaic 30% smaller",
+								"10 Sphere Hipfire Extra Small"
+							],
+				"switching": [
+								"Pokeball 1w4ts 30%",
+								"B360T Voltaic", 
+								"kinTS Voltaic",
+								"patTS Voltaic", 
+								"voxTargetSwitch 30% Smaller +2"
+							]
+	},
+	"jade": {
+				"tracking": [
+								"[MCA-5] Auto Balanced Long Strafes",
+								"Smooth Thin Strafes Raspberry",
+								"Popcorn Gauntlet Raspberry",
+								"PGTI Voltaic",
+								"Smoothsphere",
+								"Controlsphere",
+								"Flicker Plaza",
+								"Midrange Short Strafes Invincible Raspberry",
+								"Air CELESTIAL",
+								"Air Voltaic Invincible 7"
+				],
+				"clicking": [
+								"Pasu Voltaic 360",
+								"Popcorn Voltaic",
+								"B180 Voltaic",
+								"Tamspeed 2bpes",
+								"Wide Wall 2 Targets Extra Small",
+								"ww2t voltaic 50% smaller",
+								"1w2tes",
+								"1w4ts Voltaic 50% smaller"
+							],
+				"switching": [
+								"1w4t_vbr_pokeball Raspberry",
+								"B360T Voltaic Jade", 
+								"kinTS Voltaic Smooth",
+								"patTS Voltaic 360", 
+								"voxTS Viscose Varied"
+							]
+	},
+	"master": {
+				"tracking": [
+								"Smooth Thin Strafes Master",
+								"VAI 1 Master",
+								"VAI 15 Master",
+								"Popcorn Gauntlet Raspberry Master",
+								"Smoothsphere Master",
+								"Controlsphere Master",
+								"Air Angelic 7 Smaller fixed",
+								"Air NUNS AIO Insane",
+								"Flicker XYZ",
+								"FuglaaXYZ Voltaic Less Blinks Master",
+								"Trackstop Master",
+								"Flicker Plaza No strafes Dash Master",
+								"Flicker Plaza Hard",
+								"VSS Close-Mid Long Master",
+								"Midrange Fast Strafes Invincible Raspberry v2",
+								"Glider GOATED",
+								"Smoothbot Unvincible Goated Master",
+								"Leap 180TI Master",
+								"Precision XYZ Master"
+				],
+				"clicking": [
+								"1w4t Pasu Raspberry Master",
+								"Popcorn VT Goated",
+								"Leap 180 Master",
+								"psalmTS angelic click",
+								"1w6ts_trustechain Raspberry",
+								"1w2ts reload",
+								"1w4ts reload 30% smaller",
+								"1w3ts 30% larger",
+								"1wall4targets TE Reload",
+								"ww2t Voltaic",
+								"10 Sphere Hipfire Small Fixed Reload"
+							],
+				"switching": [
+								"Pokeball Frenzy Auto 1w2ts",
+								"Pokeball Frenzy Auto Wide Wall 2 Targets", 
+								"Pokeball 5 Sphere Hipfire Small",
+								"fuglaab180t Master", 
+								"kinTS Voltaic small 200%",
+								"patTS Static Small NR no body",
+								"voxTS Static Small NR",
+								"patTS Voltaic 30% Smaller",
+								"voxTS Voltaic s3 30% smaller"
+							]
+	},
+	"grandmaster": {
+				"tracking": [
+								"Smooth Thin Strafes Grandmaster",
+								"VAI 1 Grandmaster",
+								"VAI 15 Grandmaster",
+								"Popcorn Gauntlet Raspberry Grandmaster",
+								"Smoothsphere Grandmaster",
+								"Controlsphere Grandmaster",
+								"Air Angelic 7 Grandmaster",
+								"Air NUNS AIO Grandmaster",
+								"Flicker XYZ Grandmaster",
+								"FuglaaXYZ Voltaic Less Blinks Grandmaster",
+								"Trackstop Grandmaster",
+								"Flicker Plaza No Strafes Dash Grandmaster",
+								"Flicker Plaza Grandmaster",
+								"VSS Close-Mid Long 30% Smaller",
+								"Midrange Fast Strafes Invincible Grandmaster",
+								"Glider GOATED Hard",
+								"Smoothbot Unvincible Small Goated",
+								"Leap 180TI Grandmaster",
+								"Precision XYZ Grandmaster"
+				],
+				"clicking": [
+								"1w4t Pasu Raspberry Grandmaster",
+								"Popcorn VT Goated",
+								"Leap 180 Grandmaster",
+								"Psalm Clicking Small",
+								"1w6ts_trustechain Raspberry",
+								"1w2ts reload",
+								"ww2t Voltaic",
+								"12 Sphere Hipfire 30% Smaller",
+								"fuglaaPressure NoReload",
+								"1wall4targets TE Reload"
+							],
+				"switching": [
+								"Pokeball Frenzy Auto 1w2ts",
+								"Pokeball Frenzy Auto Wide Wall 2 Targets", 
+								"Pokeball 5 Sphere Hipfire Small",
+								"Pokeball Frenzy Auto 1w4ts", 
+								"B180T Voltaic Grandmaster",
+								"kinTS Voltaic small 300%",
+								"patTS Static Small NR no body",
+								"voxTS Static Small NR",
+								"patTS Voltaic 30% Smaller Smooth",
+								"voxTS Voltaic 30% Smaller Smooth"
+							]
+	}
+}

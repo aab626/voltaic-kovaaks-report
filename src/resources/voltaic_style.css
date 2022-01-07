@@ -1,0 +1,221 @@
+:root{
+	font-size: 12pt;
+	background-color: #2F196B;
+}
+
+body {
+	background-color: #5231DD;
+	color: #FFFFFF;
+	font-family: 'PT Sans', 'Verdana', sans-serif;
+	text-align: center;
+	
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.header {
+	text-align: center;
+}
+
+.header h1 {
+	font-family: 'Verdana', sans-serif;
+	font-size: 2.5rem;
+	margin-bottom: 5px;
+	color: #24DDD8;
+}
+
+.header p {
+	margin-top: 0px
+}
+
+.navbar {
+	display: inline-flex;
+	border: 2px solid #24DDD8; 
+	border-radius: 10px;
+	justify-content: center;
+	align-items: center;
+
+	padding: 3px 10px 3px 10px;
+}
+
+.navbar a {
+	margin: 7px 10px 7px 10px;
+	padding: 5px 25px 5px 25px;
+	outline: 3px solid;
+	background-color: #2F196B;
+	border-radius: 4px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.navbar .iron {
+	outline-color: #cccccc;
+}
+
+.navbar .iron:hover {
+	background-color: #cccccc;
+	color: #000000;
+}
+
+.navbar .bronze {
+	outline-color: #ff9900;
+}
+
+.navbar .bronze:hover {
+	background-color: #ff9900;
+	color: #000000;
+}
+
+.navbar .silver {
+	outline-color: #cbd9e6;
+}
+
+.navbar .silver:hover {
+	background-color: #cbd9e6;
+	color: #000000;
+}
+
+.navbar .gold {
+	outline-color: #cab148;
+}
+
+.navbar .gold:hover {
+	background-color: #cab148;
+	color: #000000;
+}
+
+.navbar .platinum {
+	outline-color: #2fcfc2;
+}
+
+.navbar .platinum:hover {
+	background-color: #2fcfc2;
+	color: #000000;
+}
+
+.navbar .diamond {
+	outline-color: #b9f2ff;
+}
+
+.navbar .diamond:hover {
+	background-color: #b9f2ff;
+	color: #000000;
+}
+
+.navbar .jade {
+	outline-color: #85fa85;
+}
+
+.navbar .jade:hover {
+	background-color: #85fa85;
+	color: #000000;
+}
+
+.navbar .master {
+	outline-color: #ec44ca;
+}
+
+.navbar .master:hover {
+	background-color: #ec44ca;
+	color: #000000;
+}
+
+.navbar .grandmaster {
+	outline-color: #ffd700;
+}
+
+.navbar .grandmaster:hover {
+	background-color: #ffd700;
+	color: #000000;
+}
+
+.main {
+	display: flex;
+	flex-direction: column;
+	text-align: left;
+}
+
+.index_report {
+	justify-content: center;
+}
+
+.horizontal_separator{
+	width: 75%;
+	border: 1px dashed #24DDD8;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.scenario_type {
+	margin-left: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+.scenario_type h2{
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 5px;
+
+}
+
+.scenario {
+	margin-bottom: 1em;
+}
+
+.scenario .name h3 {
+	text-align: left;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.scenario .contents {
+	display: flex;
+	flex-direction: row;
+}
+
+.scenario .graph {
+	background-color: #2F196B;
+	border: 2px solid #24DDD8;
+	border-radius: 20px;
+	margin-right: 0px;
+}
+
+.vertical_separator {
+	width: 0px;
+	border: 1px dashed #24DDD8;
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+.scenario .contents .data{
+	display: flex;
+	flex-direction: row;
+}
+
+.scenario .contents .data th{
+	text-align: left;
+}
+
+.scenario .contents .data td{
+	text-align: right;
+}
+
+.scenario .contents .data .alltime {
+	margin-right: 1em;
+}
+
+.scenario .contents .data .alltime h4{
+	text-align: center;
+}
+
+.scenario .contents .data .last20 {
+	margin-left: 1em;
+}
+
+.scenario .contents .data .last20 h4{
+	text-align: center;
+}
